@@ -24,6 +24,6 @@ mjnhb2001@gmail.com
 
 ## 개발경력
 
-### 포탈랩 - 리눅스 개발 ![portalab](Portalab_Logo_type_C_(for_dark_BG).png){: width="30%" height="30%}
+### 포탈랩 - 리눅스 개발 ![portalab](Portalab_Logo_type_C.png =100*100)
  - 2020 K-startup 학생창업유망팀 300 본선 진출
  - 3D 프린터 Gcode 생성을 위한 [CuraEngine](https://github.com/Ultimaker/CuraEngine) 활용을 통한 자사 서버 내 Gcode 생성 백엔드 개발
