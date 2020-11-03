@@ -6,3 +6,5 @@ table.cpp가 본 프로젝트와 관련이 있는 소스
 외부 라이브러리는 압축파일에 첨부되어 있으며, 설치법은 아래 링크에 설명되어있다.
 http://www.libxl.com/vscpp.html
 NFC.ino 파일은 아두이노에서 RFID모듈을 사용하여 카드값을 읽어올 때 사용되는 코드이다.
+---
+[Github repo](https://github.com/Thrada/17-02-cpp-project)
