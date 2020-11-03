@@ -10,7 +10,7 @@ mjnhb2001@gmail.com
 
 ## 교육
 
-- [20년 7월 FABLAB 강원 K-4INT Maker Camp 사물인터넷 IoT 수료]()
+- [20년 7월 FABLAB 강원 K-4INT Maker Camp 사물인터넷 IoT 수료](https://github.com/Thrada/JunSang-Lee/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/K-4INT%20Maker%20Camp%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20IoT.md)
 
 - 20년 9월 강원정보보호지원센터 주관 제 2회 정보보호 실습 전문 교육 수료
 
@@ -30,7 +30,7 @@ mjnhb2001@gmail.com
  - 3D 프린터 Gcode 생성을 위한 [CuraEngine](https://github.com/Ultimaker/CuraEngine) 활용을 통한 자사 서버 내 Gcode 생성 백엔드 개발
 
  ## 인증서
-  - [2020 학생창업유망팀 300 경진대회 창업도전형 최종선정 부총리 겸 교육부장관 인증서 수여]
+  - [2020 학생창업유망팀 300 경진대회 창업도전형 최종선정 부총리 겸 교육부장관 인증서 수여](https://github.com/Thrada/JunSang-Lee/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2020%20%ED%95%99%EC%83%9D%EC%B0%BD%EC%97%85%EC%9C%A0%EB%A7%9D%ED%8C%80%20300.md)
 
 ## 포트폴리오
 ---
