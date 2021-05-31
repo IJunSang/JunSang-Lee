@@ -20,7 +20,7 @@ mjnhb2001@gmail.com
 
 - (구) 컴퓨터공학과
 - (신) 스마트 IoT
-- 평점 평균 3.96 / 4.5
+- 평점 평균 4.02 / 4.5
 
 ## 개발경력
 ---
@@ -34,5 +34,5 @@ mjnhb2001@gmail.com
 
 ## 포트폴리오
 ---
-### [타자 연습 게임](https://github.com/Thrada/JunSang-Lee/blob/master/Portfolio/%ED%83%80%EC%9E%90%EC%97%B0%EC%8A%B5%EA%B2%8C%EC%9E%84.md)
+### [타자 연습 게임](https://github.com/Thrada/JunSang-Lee/blob/master/포트폴리오/%ED%83%80%EC%9E%90%EC%97%B0%EC%8A%B5%EA%B2%8C%EC%9E%84.md)
 ### [NFC 출근부](https://github.com/Thrada/JunSang-Lee/blob/master/Portfolio/NFC%20%EC%B6%9C%EA%B7%BC%EB%B6%80.md)
