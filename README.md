@@ -35,4 +35,4 @@ mjnhb2001@gmail.com
 ## 포트폴리오
 ---
 ### [타자 연습 게임](https://github.com/Thrada/JunSang-Lee/blob/master/포트폴리오/%ED%83%80%EC%9E%90%EC%97%B0%EC%8A%B5%EA%B2%8C%EC%9E%84.md)
-### [NFC 출근부](https://github.com/Thrada/JunSang-Lee/blob/master/Portfolio/NFC%20%EC%B6%9C%EA%B7%BC%EB%B6%80.md)
+### [RFID 출근부](https://github.com/Thrada/JunSang-Lee/blob/master/Portfolio/NFC%20%EC%B6%9C%EA%B7%BC%EB%B6%80.md)
