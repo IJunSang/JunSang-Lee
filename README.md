@@ -20,7 +20,7 @@ mjnhb2001@gmail.com
 
 - (구) 컴퓨터공학과
 - (신) 스마트 IoT
-- 평점 평균 4.02 / 4.5
+- 평점 평균 4.1 / 4.5
 
 ## 개발경력
 ---
@@ -31,6 +31,12 @@ mjnhb2001@gmail.com
 
  ## 인증서
   - [2020 학생창업유망팀 300 경진대회 창업도전형 최종선정 부총리 겸 교육부장관 인증서 수여](https://github.com/Thrada/JunSang-Lee/blob/master/%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99/2020%20%ED%95%99%EC%83%9D%EC%B0%BD%EC%97%85%EC%9C%A0%EB%A7%9D%ED%8C%80%20300.md)
+
+### 캡스톤디자인 경연대회(2021)
+ - 소프트웨어 빌리지 소개 및 웹 서비스 개발 (https://github.com/TeamMartini/hms_iot)
+ - 
+ ## 은상 수상
+
 
 ## 포트폴리오
 ---
