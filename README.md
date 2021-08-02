@@ -34,8 +34,9 @@ mjnhb2001@gmail.com
 
 ### 캡스톤디자인 경연대회(2021)
  - 소프트웨어 빌리지 소개 및 웹 서비스 개발 (https://github.com/TeamMartini/hms_iot)
- - 
- ## 은상 수상
+  
+ ## 수상
+  - [은상](https://github.com/Thrada/JunSang-Lee/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/image.jpg)
 
 
 ## 포트폴리오
